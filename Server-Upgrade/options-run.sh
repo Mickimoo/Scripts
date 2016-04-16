@@ -2,7 +2,6 @@
 
 #Assumes you are running the jar as "Thermos-server.jar"
 #Deletes any file called "Thermos.1.7.10<everything in-between>.jar"
-#Assumptions based on use has SSH-KEY password stored in keychain or no password required for SSH-KEY
 
 #################################################################################
 
